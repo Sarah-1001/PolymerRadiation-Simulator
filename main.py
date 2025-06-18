@@ -315,4 +315,4 @@ if len(eigenvalues) >= window_size:
     plt.close()
 else:
     print(f"Not enough data points ({len(eigenvalues)}) for running average with window size {window_size}.")
-* text=auto
+
